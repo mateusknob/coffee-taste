@@ -1,0 +1,10 @@
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Release\CoffeeTaste.exe.config
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Release\CoffeeTaste.exe
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Release\CoffeeTaste.pdb
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.Avaliacoes.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.Rotulos.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.Main.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.Properties.Resources.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.csproj.GenerateResource.Cache
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.exe
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Release\CoffeeTaste.pdb

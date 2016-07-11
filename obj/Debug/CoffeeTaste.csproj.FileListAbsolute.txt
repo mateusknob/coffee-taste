@@ -1,0 +1,31 @@
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Debug\CoffeeTaste.exe.config
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Debug\CoffeeTaste.exe.manifest
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Debug\CoffeeTaste.application
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Debug\CoffeeTaste.exe
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\bin\Debug\CoffeeTaste.pdb
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.Avaliacoes.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.Rotulos.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.Main.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.Properties.Resources.resources
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.csproj.GenerateResource.Cache
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.exe.manifest
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.application
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.exe
+C:\Users\mateus.knob\documents\visual studio 2013\Projects\CoffeeTaste\obj\Debug\CoffeeTaste.pdb
+D:\Documentos\Projetos\Coffee Taste\bin\Debug\CoffeeTaste.exe.config
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.exe
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.pdb
+D:\Documentos\Projetos\Coffee Taste\bin\Debug\CoffeeTaste.exe.manifest
+D:\Documentos\Projetos\Coffee Taste\bin\Debug\CoffeeTaste.application
+D:\Documentos\Projetos\Coffee Taste\bin\Debug\CoffeeTaste.exe
+D:\Documentos\Projetos\Coffee Taste\bin\Debug\CoffeeTaste.pdb
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.Avaliacoes.resources
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.Rotulos.resources
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.Main.resources
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.Properties.Resources.resources
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.csproj.GenerateResource.Cache
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.exe.manifest
+D:\Documentos\Projetos\Coffee Taste\obj\Debug\CoffeeTaste.application
+D:\Documentos\Projetos Programação\Coffee Taste\bin\Debug\CoffeeTaste.exe.config
+D:\Documentos\Projetos Programação\Coffee Taste\obj\Debug\CoffeeTaste.exe
+D:\Documentos\Projetos Programação\Coffee Taste\obj\Debug\CoffeeTaste.pdb
